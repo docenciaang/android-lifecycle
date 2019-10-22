@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">android-lifecycle</string>
+    <string name="ciclo_vida">Ciclo de Vida Activity</string>
 </resources>
